@@ -1,0 +1,57 @@
+body{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: rgb(202, 214, 210);
+}
+
+.header{
+    height: 300px;
+    padding: 5px;
+    font-size: 50px;
+    background-image: url("../imgs/paisaje0.jpg");
+    background-size: cover;
+    background-position: center;
+}
+
+.header h1{
+    margin: 0px;
+    font-weight: 400;
+    color: aliceblue;
+    
+}
+
+.header p{
+    margin: 0px;
+    font-style: italic;
+    color: rgb(228, 143, 143);
+}
+
+img{
+    height: 600px;
+    width: 350px;
+}
+
+.products{
+    width: 80%;
+    margin: auto;
+}
+
+.products td{
+    width: 50%;
+    padding: 2em;
+}
+
+.products img{
+    width: 100%;
+    border: solid 10px #ddd;
+}
+
+.footer{
+    height: 3em;
+    line-height: 3em;
+    background-color: rgb(202, 92, 28);
+    color: white;
+    text-align: center;
+    font-weight: 900;
+}
+
+
